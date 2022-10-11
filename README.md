@@ -1,3 +1,3 @@
-# akasztofa
-Akasztofa játék, érdekes logikával:
-Biztos a vereség, de pontot még gyűjthetsz. Minden megadott betű után kiszűri az azt tartalmazó szavakat a szókészletből, mondván, hogy ő most már biztos nem erre gondolt így a játék célja az lesz, hogy minél kevesebb esélyes szó maradjon a szótárban és a ranglista is emiatt van növekvő sorrendben.
+# Hangman
+A hangman game with a somewhat flipped logic:
+* You are sure to lose, but you can still collect points. Every letter you enter will remove the words including that letter from the word collection as the game surely did not think of a word you could guess a letter from. Thanks to this your goal is now to reduce the word collection as much as you can, the less the better, and so is the leaderboard also in ascending order.
